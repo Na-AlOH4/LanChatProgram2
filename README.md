@@ -8,4 +8,4 @@
   
   (3)更新后先前版本的安装包不再在此处提供,有需要者可联系开发者获取.
   ***
-一个使用C++编写的网络通信程序/A network chat program written in C++ language
+一个使用C++编写的局域网内通信程序/A network chat program written in C++ language
